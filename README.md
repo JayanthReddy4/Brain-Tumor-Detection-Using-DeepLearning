@@ -64,6 +64,37 @@ Firstly, we have collected the dataset of the Tumor images with the 2 classes (Y
 Once after training the model will be saved for testing and classifying.
 User can upload the images of which to be classified and by using the saved model the images will be classified and predicted.
 
+System Specification:
+
+>> Hardware Specification:
+
+To detect number plates, High-level computing power is required so that Google colaboratory
+or Jupyter Note Book is used So the Users Desktop or Laptop should have Minimum of 4 GB RAM
+and 2 GB Graphic card and High Level Processor’s like Intel i5,AMD RYZEN 5 or further versions
+which provides more power of GPU so that the Deep Learning and Machine Learning Algorithms are
+implemented. <br />
+• Working framework: Windows 7 or more, mac OS, Linux. <br />
+• System design: 64-bit or 32-bit. <br />
+• RAM: 4GB or above <br />
+
+>> Software Specification
+
+• Jupyter Note Book or Google Colab <br />
+• Visual studio code <br />
+• Numpy <br />
+• Matplotlib <br />
+• Pandas <br />
+• Keras  <br />
+• Open CV <br />
+• Tensorflow <br />
+
+>> Standards and Policies
+
+• IEEE 829 - Software Test Documentation <br />
+• IEEE 830 - Software Requirements Specifications <br />
+• IEEE 1012 - Software verification and validation <br />
+• IEEE 1016 - Software design description <br />
+
 SOFTWARE USED:
 
 Python: 
